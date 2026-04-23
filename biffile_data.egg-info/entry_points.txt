@@ -1,0 +1,2 @@
+[console_scripts]
+biffile = biffile_data.cli:main
